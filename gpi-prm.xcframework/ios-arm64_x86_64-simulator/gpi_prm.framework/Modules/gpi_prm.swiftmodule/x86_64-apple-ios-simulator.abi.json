@@ -1,0 +1,3205 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "gpi_prm",
+    "printedName": "gpi_prm",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "gpi_prm"
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GEOSwift",
+        "printedName": "GEOSwift",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "gpi_prm"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AreaInfo",
+        "printedName": "AreaInfo",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "name",
+            "printedName": "name",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8AreaInfoC4nameSSSgvp",
+            "mangledName": "$s7gpi_prm8AreaInfoC4nameSSSgvp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC4nameSSSgvg",
+                "mangledName": "$s7gpi_prm8AreaInfoC4nameSSSgvg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC4nameSSSgvs",
+                "mangledName": "$s7gpi_prm8AreaInfoC4nameSSSgvs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC4nameSSSgvM",
+                "mangledName": "$s7gpi_prm8AreaInfoC4nameSSSgvM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "points",
+            "printedName": "points",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[CoreFoundation.CGPoint]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[CoreFoundation.CGPoint]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CGPoint",
+                        "printedName": "CoreFoundation.CGPoint",
+                        "usr": "c:@S@CGPoint"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8AreaInfoC6pointsSaySo7CGPointVGSgvp",
+            "mangledName": "$s7gpi_prm8AreaInfoC6pointsSaySo7CGPointVGSgvp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[CoreFoundation.CGPoint]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[CoreFoundation.CGPoint]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CGPoint",
+                            "printedName": "CoreFoundation.CGPoint",
+                            "usr": "c:@S@CGPoint"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC6pointsSaySo7CGPointVGSgvg",
+                "mangledName": "$s7gpi_prm8AreaInfoC6pointsSaySo7CGPointVGSgvg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[CoreFoundation.CGPoint]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[CoreFoundation.CGPoint]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CGPoint",
+                            "printedName": "CoreFoundation.CGPoint",
+                            "usr": "c:@S@CGPoint"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC6pointsSaySo7CGPointVGSgvs",
+                "mangledName": "$s7gpi_prm8AreaInfoC6pointsSaySo7CGPointVGSgvs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC6pointsSaySo7CGPointVGSgvM",
+                "mangledName": "$s7gpi_prm8AreaInfoC6pointsSaySo7CGPointVGSgvM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "inCount",
+            "printedName": "inCount",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8AreaInfoC7inCountSivp",
+            "mangledName": "$s7gpi_prm8AreaInfoC7inCountSivp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC7inCountSivg",
+                "mangledName": "$s7gpi_prm8AreaInfoC7inCountSivg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC7inCountSivs",
+                "mangledName": "$s7gpi_prm8AreaInfoC7inCountSivs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC7inCountSivM",
+                "mangledName": "$s7gpi_prm8AreaInfoC7inCountSivM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "inCountInterval",
+            "printedName": "inCountInterval",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8AreaInfoC15inCountIntervalSivp",
+            "mangledName": "$s7gpi_prm8AreaInfoC15inCountIntervalSivp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC15inCountIntervalSivg",
+                "mangledName": "$s7gpi_prm8AreaInfoC15inCountIntervalSivg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC15inCountIntervalSivs",
+                "mangledName": "$s7gpi_prm8AreaInfoC15inCountIntervalSivs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC15inCountIntervalSivM",
+                "mangledName": "$s7gpi_prm8AreaInfoC15inCountIntervalSivM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "priority",
+            "printedName": "priority",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8AreaInfoC8prioritySivp",
+            "mangledName": "$s7gpi_prm8AreaInfoC8prioritySivp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC8prioritySivg",
+                "mangledName": "$s7gpi_prm8AreaInfoC8prioritySivg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC8prioritySivs",
+                "mangledName": "$s7gpi_prm8AreaInfoC8prioritySivs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC8prioritySivM",
+                "mangledName": "$s7gpi_prm8AreaInfoC8prioritySivM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "outPeriod",
+            "printedName": "outPeriod",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8AreaInfoC9outPeriodSivp",
+            "mangledName": "$s7gpi_prm8AreaInfoC9outPeriodSivp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC9outPeriodSivg",
+                "mangledName": "$s7gpi_prm8AreaInfoC9outPeriodSivg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC9outPeriodSivs",
+                "mangledName": "$s7gpi_prm8AreaInfoC9outPeriodSivs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC9outPeriodSivM",
+                "mangledName": "$s7gpi_prm8AreaInfoC9outPeriodSivM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "inDist",
+            "printedName": "inDist",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8AreaInfoC6inDistSdvp",
+            "mangledName": "$s7gpi_prm8AreaInfoC6inDistSdvp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC6inDistSdvg",
+                "mangledName": "$s7gpi_prm8AreaInfoC6inDistSdvg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC6inDistSdvs",
+                "mangledName": "$s7gpi_prm8AreaInfoC6inDistSdvs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC6inDistSdvM",
+                "mangledName": "$s7gpi_prm8AreaInfoC6inDistSdvM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "callInout",
+            "printedName": "callInout",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8AreaInfoC9callInoutSbvp",
+            "mangledName": "$s7gpi_prm8AreaInfoC9callInoutSbvp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC9callInoutSbvg",
+                "mangledName": "$s7gpi_prm8AreaInfoC9callInoutSbvg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC9callInoutSbvs",
+                "mangledName": "$s7gpi_prm8AreaInfoC9callInoutSbvs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8AreaInfoC9callInoutSbvM",
+                "mangledName": "$s7gpi_prm8AreaInfoC9callInoutSbvM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AreaInfo",
+                "printedName": "gpi_prm.AreaInfo",
+                "usr": "s:7gpi_prm8AreaInfoC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7gpi_prm8AreaInfoCACycfc",
+            "mangledName": "$s7gpi_prm8AreaInfoCACycfc",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:7gpi_prm8AreaInfoC",
+        "mangledName": "$s7gpi_prm8AreaInfoC",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MIoc",
+        "printedName": "MIoc",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "setCallback",
+            "printedName": "setCallback(callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "MIocCallback",
+                "printedName": "any gpi_prm.MIocCallback",
+                "usr": "s:7gpi_prm12MIocCallbackP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm4MIocP11setCallback8callbackyAA0cE0_p_tF",
+            "mangledName": "$s7gpi_prm4MIocP11setCallback8callbackyAA0cE0_p_tF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isRunning",
+            "printedName": "isRunning()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm4MIocP9isRunningSbyF",
+            "mangledName": "$s7gpi_prm4MIocP9isRunningSbyF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start(baseUrl:projectId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int64",
+                "printedName": "Swift.Int64",
+                "usr": "s:s5Int64V"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm4MIocP5start7baseUrl9projectIdySS_s5Int64VtF",
+            "mangledName": "$s7gpi_prm4MIocP5start7baseUrl9projectIdySS_s5Int64VtF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start(baseUrl:projectId:spaceId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int64",
+                "printedName": "Swift.Int64",
+                "usr": "s:s5Int64V"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int64?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int64",
+                    "printedName": "Swift.Int64",
+                    "usr": "s:s5Int64V"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm4MIocP5start7baseUrl9projectId05spaceH0ySS_s5Int64VAISgtF",
+            "mangledName": "$s7gpi_prm4MIocP5start7baseUrl9projectId05spaceH0ySS_s5Int64VAISgtF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start(areaInfoList:wallInfoList:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[gpi_prm.AreaInfo]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AreaInfo",
+                    "printedName": "gpi_prm.AreaInfo",
+                    "usr": "s:7gpi_prm8AreaInfoC"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[gpi_prm.WallInfo]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WallInfo",
+                    "printedName": "gpi_prm.WallInfo",
+                    "usr": "s:7gpi_prm8WallInfoC"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm4MIocP5start12areaInfoList04wallfG0ySayAA04AreaF0CG_SayAA04WallF0CGtF",
+            "mangledName": "$s7gpi_prm4MIocP5start12areaInfoList04wallfG0ySayAA04AreaF0CG_SayAA04WallF0CGtF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm4MIocP4stopyyF",
+            "mangledName": "$s7gpi_prm4MIocP4stopyyF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "pushEvent",
+            "printedName": "pushEvent(spaceId:tagId:x:y:z:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int64",
+                "printedName": "Swift.Int64",
+                "usr": "s:s5Int64V"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm4MIocP9pushEvent7spaceId03tagG01x1y1zys5Int64V_SSS3dtF",
+            "mangledName": "$s7gpi_prm4MIocP9pushEvent7spaceId03tagG01x1y1zys5Int64V_SSS3dtF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:7gpi_prm4MIocP",
+        "mangledName": "$s7gpi_prm4MIocP",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MIocFactory",
+        "printedName": "MIocFactory",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "getInstance",
+            "printedName": "getInstance()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MIoc",
+                "printedName": "any gpi_prm.MIoc",
+                "usr": "s:7gpi_prm4MIocP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm11MIocFactoryC11getInstanceAA0C0_pyFZ",
+            "mangledName": "$s7gpi_prm11MIocFactoryC11getInstanceAA0C0_pyFZ",
+            "moduleName": "gpi_prm",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:7gpi_prm11MIocFactoryC",
+        "mangledName": "$s7gpi_prm11MIocFactoryC",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MIocCallback",
+        "printedName": "MIocCallback",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onStart",
+            "printedName": "onStart()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm12MIocCallbackP7onStartyyF",
+            "mangledName": "$s7gpi_prm12MIocCallbackP7onStartyyF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIocCallback>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIocCallback>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onStop",
+            "printedName": "onStop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm12MIocCallbackP6onStopyyF",
+            "mangledName": "$s7gpi_prm12MIocCallbackP6onStopyyF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIocCallback>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIocCallback>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onError",
+            "printedName": "onError(msg:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm12MIocCallbackP7onError3msgySS_tF",
+            "mangledName": "$s7gpi_prm12MIocCallbackP7onError3msgySS_tF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIocCallback>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIocCallback>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onReceivedInout",
+            "printedName": "onReceivedInout(inoutStr:tagId:workspaceId:workspaceName:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int64",
+                "printedName": "Swift.Int64",
+                "usr": "s:s5Int64V"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7gpi_prm12MIocCallbackP15onReceivedInout8inoutStr5tagId09workspaceK00L4NameySS_SSs5Int64VSStF",
+            "mangledName": "$s7gpi_prm12MIocCallbackP15onReceivedInout8inoutStr5tagId09workspaceK00L4NameySS_SSs5Int64VSStF",
+            "moduleName": "gpi_prm",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIocCallback>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.MIocCallback>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:7gpi_prm12MIocCallbackP",
+        "mangledName": "$s7gpi_prm12MIocCallbackP",
+        "moduleName": "gpi_prm",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SDKConfig",
+        "printedName": "SDKConfig",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "version",
+            "printedName": "version",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm9SDKConfigO7versionSSvpZ",
+            "mangledName": "$s7gpi_prm9SDKConfigO7versionSSvpZ",
+            "moduleName": "gpi_prm",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm9SDKConfigO7versionSSvgZ",
+                "mangledName": "$s7gpi_prm9SDKConfigO7versionSSvgZ",
+                "moduleName": "gpi_prm",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:7gpi_prm9SDKConfigO",
+        "mangledName": "$s7gpi_prm9SDKConfigO",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "gpi_prm"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WallInfo",
+        "printedName": "WallInfo",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "name",
+            "printedName": "name",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8WallInfoC4nameSSSgvp",
+            "mangledName": "$s7gpi_prm8WallInfoC4nameSSSgvp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC4nameSSSgvg",
+                "mangledName": "$s7gpi_prm8WallInfoC4nameSSSgvg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC4nameSSSgvs",
+                "mangledName": "$s7gpi_prm8WallInfoC4nameSSSgvs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC4nameSSSgvM",
+                "mangledName": "$s7gpi_prm8WallInfoC4nameSSSgvM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "points",
+            "printedName": "points",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[CoreFoundation.CGPoint]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[CoreFoundation.CGPoint]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CGPoint",
+                        "printedName": "CoreFoundation.CGPoint",
+                        "usr": "c:@S@CGPoint"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8WallInfoC6pointsSaySo7CGPointVGSgvp",
+            "mangledName": "$s7gpi_prm8WallInfoC6pointsSaySo7CGPointVGSgvp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[CoreFoundation.CGPoint]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[CoreFoundation.CGPoint]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CGPoint",
+                            "printedName": "CoreFoundation.CGPoint",
+                            "usr": "c:@S@CGPoint"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC6pointsSaySo7CGPointVGSgvg",
+                "mangledName": "$s7gpi_prm8WallInfoC6pointsSaySo7CGPointVGSgvg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[CoreFoundation.CGPoint]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[CoreFoundation.CGPoint]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CGPoint",
+                            "printedName": "CoreFoundation.CGPoint",
+                            "usr": "c:@S@CGPoint"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC6pointsSaySo7CGPointVGSgvs",
+                "mangledName": "$s7gpi_prm8WallInfoC6pointsSaySo7CGPointVGSgvs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC6pointsSaySo7CGPointVGSgvM",
+                "mangledName": "$s7gpi_prm8WallInfoC6pointsSaySo7CGPointVGSgvM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "inCount",
+            "printedName": "inCount",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8WallInfoC7inCountSivp",
+            "mangledName": "$s7gpi_prm8WallInfoC7inCountSivp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC7inCountSivg",
+                "mangledName": "$s7gpi_prm8WallInfoC7inCountSivg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC7inCountSivs",
+                "mangledName": "$s7gpi_prm8WallInfoC7inCountSivs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC7inCountSivM",
+                "mangledName": "$s7gpi_prm8WallInfoC7inCountSivM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "inCountInterval",
+            "printedName": "inCountInterval",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8WallInfoC15inCountIntervalSivp",
+            "mangledName": "$s7gpi_prm8WallInfoC15inCountIntervalSivp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC15inCountIntervalSivg",
+                "mangledName": "$s7gpi_prm8WallInfoC15inCountIntervalSivg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC15inCountIntervalSivs",
+                "mangledName": "$s7gpi_prm8WallInfoC15inCountIntervalSivs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC15inCountIntervalSivM",
+                "mangledName": "$s7gpi_prm8WallInfoC15inCountIntervalSivM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "inDist",
+            "printedName": "inDist",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7gpi_prm8WallInfoC6inDistSdvp",
+            "mangledName": "$s7gpi_prm8WallInfoC6inDistSdvp",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC6inDistSdvg",
+                "mangledName": "$s7gpi_prm8WallInfoC6inDistSdvg",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC6inDistSdvs",
+                "mangledName": "$s7gpi_prm8WallInfoC6inDistSdvs",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7gpi_prm8WallInfoC6inDistSdvM",
+                "mangledName": "$s7gpi_prm8WallInfoC6inDistSdvM",
+                "moduleName": "gpi_prm",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WallInfo",
+                "printedName": "gpi_prm.WallInfo",
+                "usr": "s:7gpi_prm8WallInfoC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7gpi_prm8WallInfoCACycfc",
+            "mangledName": "$s7gpi_prm8WallInfoCACycfc",
+            "moduleName": "gpi_prm",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:7gpi_prm8WallInfoC",
+        "mangledName": "$s7gpi_prm8WallInfoC",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
+      "kind": "StringLiteral",
+      "offset": 192,
+      "length": 33,
+      "value": "\"kr.co.geoplan.mobile.mioc.prefs\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
+      "kind": "StringLiteral",
+      "offset": 275,
+      "length": 9,
+      "value": "\".ioc.ip\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
+      "kind": "StringLiteral",
+      "offset": 331,
+      "length": 11,
+      "value": "\".ioc.port\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
+      "kind": "StringLiteral",
+      "offset": 391,
+      "length": 13,
+      "value": "\".project.id\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
+      "kind": "StringLiteral",
+      "offset": 451,
+      "length": 11,
+      "value": "\".space.id\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 6,
+      "value": "\".key\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
+      "kind": "StringLiteral",
+      "offset": 560,
+      "length": 11,
+      "value": "\".udp_port\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
+      "kind": "StringLiteral",
+      "offset": 628,
+      "length": 21,
+      "value": "\".first.position.use\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
+      "kind": "StringLiteral",
+      "offset": 706,
+      "length": 21,
+      "value": "\".first.position.cnt\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 136,
+      "length": 31,
+      "value": "\"https:\/\/192.168.0.13:7081\/ioc\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 914,
+      "length": 9,
+      "value": "\"geoplan\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 953,
+      "length": 7,
+      "value": "\"4.0.0\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1049,
+      "length": 9,
+      "value": "\"IOC_KEY\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1120,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 945,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1013,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 1087,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1159,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 1240,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1530,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "Array",
+      "offset": 1894,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "Dictionary",
+      "offset": 1989,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "Dictionary",
+      "offset": 2113,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "Array",
+      "offset": 2163,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "kind": "Array",
+      "offset": 2208,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/WallDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 461,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/WallDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 524,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/WallDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 592,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 234,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 265,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 294,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 318,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 342,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 370,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "BooleanLiteral",
+      "offset": 400,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 433,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 463,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 564,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 588,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 610,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 452,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 512,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 577,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 659,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 692,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 800,
+      "length": 6,
+      "value": "\"READ\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 413,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 488,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 568,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 652,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "kind": "BooleanLiteral",
+      "offset": 783,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "kind": "StringLiteral",
+      "offset": 1209,
+      "length": 6,
+      "value": "\"READ\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/PointAngleDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 199,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/PointAngleDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 332,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 171,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 241,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 335,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
+      "kind": "FloatLiteral",
+      "offset": 356,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 219,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 247,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 390,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 411,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "kind": "IntegerLiteral",
+      "offset": 432,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ExternalTypeEnum.swift",
+      "kind": "IntegerLiteral",
+      "offset": 247,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ExternalTypeEnum.swift",
+      "kind": "IntegerLiteral",
+      "offset": 271,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ExternalTypeEnum.swift",
+      "kind": "IntegerLiteral",
+      "offset": 293,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 181,
+      "length": 5,
+      "value": "\"TAG\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 203,
+      "length": 6,
+      "value": "\"PUSH\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 228,
+      "length": 8,
+      "value": "\"IGNORE\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 257,
+      "length": 10,
+      "value": "\"PRIORITY\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
+      "kind": "IntegerLiteral",
+      "offset": 208,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
+      "kind": "IntegerLiteral",
+      "offset": 225,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
+      "kind": "IntegerLiteral",
+      "offset": 251,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 211,
+      "length": 7,
+      "value": "\"SLEEP\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 258,
+      "length": 12,
+      "value": "\"CONFIG_UWB\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 324,
+      "length": 20,
+      "value": "\"CONFIG_UWB_CHANNEL\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 395,
+      "length": 15,
+      "value": "\"CONFIG_BEACON\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 474,
+      "length": 15,
+      "value": "\"ACCELEROMETER\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 537,
+      "length": 10,
+      "value": "\"EPD_PAGE\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 597,
+      "length": 11,
+      "value": "\"EPD_STYLE\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TypeEnum.swift",
+      "kind": "IntegerLiteral",
+      "offset": 175,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TypeEnum.swift",
+      "kind": "IntegerLiteral",
+      "offset": 195,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TypeEnum.swift",
+      "kind": "IntegerLiteral",
+      "offset": 215,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/impl\/MIocImpl.swift",
+      "kind": "BooleanLiteral",
+      "offset": 533,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/impl\/MIocImpl.swift",
+      "kind": "StringLiteral",
+      "offset": 584,
+      "length": 29,
+      "value": "\"kr.co.geoplan.mioc.executor\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/impl\/MIocImpl.swift",
+      "kind": "IntegerLiteral",
+      "offset": 672,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/impl\/MIocImpl.swift",
+      "kind": "IntegerLiteral",
+      "offset": 724,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/impl\/MIocImpl.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5993,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/EventManager.swift",
+      "kind": "Dictionary",
+      "offset": 216,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
+      "kind": "Array",
+      "offset": 372,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
+      "kind": "Dictionary",
+      "offset": 435,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
+      "kind": "Dictionary",
+      "offset": 484,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
+      "kind": "StringLiteral",
+      "offset": 590,
+      "length": 36,
+      "value": "\"kr.co.geoplan.mioc.inoutArea.timer\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 660,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/WallManager.swift",
+      "kind": "Array",
+      "offset": 179,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/WallManager.swift",
+      "kind": "StringLiteral",
+      "offset": 281,
+      "length": 31,
+      "value": "\"kr.co.geoplan.mioc.wall.timer\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
+      "kind": "Dictionary",
+      "offset": 212,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 247,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 282,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
+      "kind": "FloatLiteral",
+      "offset": 317,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/MainTrackingService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 340,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/TrackingObjectService.swift",
+      "kind": "Dictionary",
+      "offset": 186,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 230,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 270,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 304,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 338,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "kind": "FloatLiteral",
+      "offset": 372,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "kind": "BooleanLiteral",
+      "offset": 409,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/Version.swift",
+      "kind": "StringLiteral",
+      "offset": 567,
+      "length": 7,
+      "value": "\"1.0.0\""
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/WallInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 230,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/WallInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 302,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/WallInfo.swift",
+      "kind": "FloatLiteral",
+      "offset": 336,
+      "length": 3,
+      "value": "2.0"
+    }
+  ]
+}
