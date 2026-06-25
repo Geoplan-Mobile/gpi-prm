@@ -8,7 +8,7 @@
 - **최초 배포**: PRM(실내 측위 진출입 / 지오펜싱) 엔진.
   - 공개 API: `MIoc`, `MIocFactory`, `MIocCallback`, `AreaInfo`, `WallInfo`, `SDKConfig`.
   - 태그 좌표 스트림(`pushEvent`)을 받아 영역/벽 진출입(IN/OUT)을 판정해 `MIocCallback.onReceivedInout` 으로 통지.
-  - 시작 경로: 영역 데이터 직접 주입(`start(areaInfoList:wallInfoList:)`) 및 IOC 서버 연동(`start(baseUrl:projectId:[spaceId:])`).
+  - 시작: `start(areaInfoList:wallInfoList:)` 로 영역/벽 데이터를 직접 주입.
 - **iOS Simulator 지원**: `xcframework` 에 `ios-arm64`(device) + `ios-arm64_x86_64-simulator` 슬라이스 포함.
 - **버전 식별 파일**: `gpi-prm.xcframework/VERSION_1.0.0` 동봉 — 연동 없이도 배포 버전 확인 가능.
 

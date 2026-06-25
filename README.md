@@ -125,4 +125,4 @@ PRM 엔진 컨트롤러. 진출입 판정의 모든 제어 진입점이다.
 * **`init()`** — 기본 생성자.
 
 ### 버전: `SDKConfig`
-* **`static let version: String`** — 현재 SDK 시멘틱 버전. (예: `"1.0.0"`)
+* **`static var version: String`** — 현재 SDK 버전. framework Info.plist 의 `CFBundleShortVersionString`(빌드 시 Xcode `MARKETING_VERSION`)을 읽어 반환한다. (예: `"1.0.0"`)
