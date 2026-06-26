@@ -53,15 +53,20 @@ final class MyPrmService: MIocCallback {
 
 ```swift
 let area = AreaInfo()
-area.name = "영역 A"
+area.name = "영역 A"                  // 이벤트의 workspaceName 으로 통지됨
 area.points = [                       // 폴리곤 꼭짓점 (자동 폐합)
     CGPoint(x: 0,  y: 0),
     CGPoint(x: 0,  y: 10),
     CGPoint(x: 10, y: 10),
     CGPoint(x: 10, y: 0),
 ]
-area.inCount = 1                      // 진입 확정에 필요한 감지 횟수
-area.inDist  = 3.0                    // 진입 판단 거리(m)
+// --- 판정 파라미터 (아래는 모두 선택. 지정 안 하면 괄호 안 기본값 적용) ---
+area.inCount         = 1             // 진입 확정에 필요한 감지 횟수 (기본 0)
+area.inCountInterval = 0             // 감지 카운트 간격(초) (기본 0)
+area.inDist          = 3.0          // 진입 판단 거리(m) (기본 3.0)
+area.outPeriod       = 0            // 이탈 판정 유예(period) (기본 0)
+area.priority        = 1           // 영역 겹칠 때 우선순위 (기본 1)
+area.callInout       = true        // 이 영역의 진출입 콜백 호출 여부 (기본 true)
 
 service.mioc.start(areaInfoList: [area], wallInfoList: [])
 
