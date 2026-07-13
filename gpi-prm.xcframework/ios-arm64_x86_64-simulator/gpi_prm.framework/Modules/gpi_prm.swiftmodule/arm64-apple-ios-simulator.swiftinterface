@@ -20,8 +20,8 @@ public class AreaInfo {
   public init()
   @objc deinit
 }
-public protocol MIoc {
-  func setCallback(callback: any gpi_prm::MIocCallback)
+public protocol Prm {
+  func setCallback(callback: any gpi_prm::PrmCallback)
   func isRunning() -> Swift::Bool
   func start(baseUrl: Swift::String, projectId: Swift::Int64)
   func start(baseUrl: Swift::String, projectId: Swift::Int64, spaceId: Swift::Int64?)
@@ -29,18 +29,20 @@ public protocol MIoc {
   func stop()
   func pushEvent(spaceId: Swift::Int64, tagId: Swift::String, x: Swift::Double, y: Swift::Double, z: Swift::Double)
 }
-@_hasMissingDesignatedInitializers public class MIocFactory {
-  public static func getInstance() -> any gpi_prm::MIoc
+@_hasMissingDesignatedInitializers public class PrmFactory {
+  public static func getInstance() -> any gpi_prm::Prm
   @objc deinit
 }
-public protocol MIocCallback : AnyObject {
+public protocol PrmCallback : AnyObject {
   func onStart()
   func onStop()
   func onError(msg: Swift::String)
   func onReceivedInout(inoutStr: Swift::String, tagId: Swift::String, workspaceId: Swift::Int64, workspaceName: Swift::String)
 }
 public enum SDKConfig {
-  public static let version: Swift::String
+  public static var version: Swift::String {
+    get
+  }
 }
 public class WallInfo {
   public var name: Swift::String?

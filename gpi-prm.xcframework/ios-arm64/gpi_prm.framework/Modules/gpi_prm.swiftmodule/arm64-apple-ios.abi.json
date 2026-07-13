@@ -36,16 +36,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "gpi_prm",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "GEOSwift",
         "printedName": "GEOSwift",
         "declKind": "Import",
@@ -1231,8 +1221,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "MIoc",
-        "printedName": "MIoc",
+        "name": "Prm",
+        "printedName": "Prm",
         "children": [
           {
             "kind": "Function",
@@ -1246,17 +1236,17 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "MIocCallback",
-                "printedName": "any gpi_prm.MIocCallback",
-                "usr": "s:7gpi_prm12MIocCallbackP"
+                "name": "PrmCallback",
+                "printedName": "any gpi_prm.PrmCallback",
+                "usr": "s:7gpi_prm11PrmCallbackP"
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm4MIocP11setCallback8callbackyAA0cE0_p_tF",
-            "mangledName": "$s7gpi_prm4MIocP11setCallback8callbackyAA0cE0_p_tF",
+            "usr": "s:7gpi_prm3PrmP11setCallback8callbackyAA0cE0_p_tF",
+            "mangledName": "$s7gpi_prm3PrmP11setCallback8callbackyAA0cE0_p_tF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.Prm>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.Prm>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -1277,11 +1267,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm4MIocP9isRunningSbyF",
-            "mangledName": "$s7gpi_prm4MIocP9isRunningSbyF",
+            "usr": "s:7gpi_prm3PrmP9isRunningSbyF",
+            "mangledName": "$s7gpi_prm3PrmP9isRunningSbyF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.Prm>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.Prm>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -1313,11 +1303,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm4MIocP5start7baseUrl9projectIdySS_s5Int64VtF",
-            "mangledName": "$s7gpi_prm4MIocP5start7baseUrl9projectIdySS_s5Int64VtF",
+            "usr": "s:7gpi_prm3PrmP5start7baseUrl9projectIdySS_s5Int64VtF",
+            "mangledName": "$s7gpi_prm3PrmP5start7baseUrl9projectIdySS_s5Int64VtF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.Prm>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.Prm>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -1363,11 +1353,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm4MIocP5start7baseUrl9projectId05spaceH0ySS_s5Int64VAISgtF",
-            "mangledName": "$s7gpi_prm4MIocP5start7baseUrl9projectId05spaceH0ySS_s5Int64VAISgtF",
+            "usr": "s:7gpi_prm3PrmP5start7baseUrl9projectId05spaceH0ySS_s5Int64VAISgtF",
+            "mangledName": "$s7gpi_prm3PrmP5start7baseUrl9projectId05spaceH0ySS_s5Int64VAISgtF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.Prm>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.Prm>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -1415,11 +1405,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm4MIocP5start12areaInfoList04wallfG0ySayAA04AreaF0CG_SayAA04WallF0CGtF",
-            "mangledName": "$s7gpi_prm4MIocP5start12areaInfoList04wallfG0ySayAA04AreaF0CG_SayAA04WallF0CGtF",
+            "usr": "s:7gpi_prm3PrmP5start12areaInfoList04wallfG0ySayAA04AreaF0CG_SayAA04WallF0CGtF",
+            "mangledName": "$s7gpi_prm3PrmP5start12areaInfoList04wallfG0ySayAA04AreaF0CG_SayAA04WallF0CGtF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.Prm>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.Prm>",
             "protocolReq": true,
             "reqNewWitnessTableEntry": true,
             "funcSelfKind": "NonMutating"
@@ -1436,11 +1426,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm4MIocP4stopyyF",
-            "mangledName": "$s7gpi_prm4MIocP4stopyyF",
+            "usr": "s:7gpi_prm3PrmP4stopyyF",
+            "mangledName": "$s7gpi_prm3PrmP4stopyyF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.Prm>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.Prm>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -1490,11 +1480,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm4MIocP9pushEvent7spaceId03tagG01x1y1zys5Int64V_SSS3dtF",
-            "mangledName": "$s7gpi_prm4MIocP9pushEvent7spaceId03tagG01x1y1zys5Int64V_SSS3dtF",
+            "usr": "s:7gpi_prm3PrmP9pushEvent7spaceId03tagG01x1y1zys5Int64V_SSS3dtF",
+            "mangledName": "$s7gpi_prm3PrmP9pushEvent7spaceId03tagG01x1y1zys5Int64V_SSS3dtF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIoc>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIoc>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.Prm>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.Prm>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -1504,8 +1494,8 @@
           }
         ],
         "declKind": "Protocol",
-        "usr": "s:7gpi_prm4MIocP",
-        "mangledName": "$s7gpi_prm4MIocP",
+        "usr": "s:7gpi_prm3PrmP",
+        "mangledName": "$s7gpi_prm3PrmP",
         "moduleName": "gpi_prm",
         "declAttributes": [
           "AccessControl"
@@ -1529,8 +1519,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "MIocFactory",
-        "printedName": "MIocFactory",
+        "name": "PrmFactory",
+        "printedName": "PrmFactory",
         "children": [
           {
             "kind": "Function",
@@ -1539,14 +1529,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "MIoc",
-                "printedName": "any gpi_prm.MIoc",
-                "usr": "s:7gpi_prm4MIocP"
+                "name": "Prm",
+                "printedName": "any gpi_prm.Prm",
+                "usr": "s:7gpi_prm3PrmP"
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm11MIocFactoryC11getInstanceAA0C0_pyFZ",
-            "mangledName": "$s7gpi_prm11MIocFactoryC11getInstanceAA0C0_pyFZ",
+            "usr": "s:7gpi_prm10PrmFactoryC11getInstanceAA0C0_pyFZ",
+            "mangledName": "$s7gpi_prm10PrmFactoryC11getInstanceAA0C0_pyFZ",
             "moduleName": "gpi_prm",
             "static": true,
             "declAttributes": [
@@ -1557,8 +1547,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:7gpi_prm11MIocFactoryC",
-        "mangledName": "$s7gpi_prm11MIocFactoryC",
+        "usr": "s:7gpi_prm10PrmFactoryC",
+        "mangledName": "$s7gpi_prm10PrmFactoryC",
         "moduleName": "gpi_prm",
         "declAttributes": [
           "AccessControl"
@@ -1593,8 +1583,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "MIocCallback",
-        "printedName": "MIocCallback",
+        "name": "PrmCallback",
+        "printedName": "PrmCallback",
         "children": [
           {
             "kind": "Function",
@@ -1608,11 +1598,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm12MIocCallbackP7onStartyyF",
-            "mangledName": "$s7gpi_prm12MIocCallbackP7onStartyyF",
+            "usr": "s:7gpi_prm11PrmCallbackP7onStartyyF",
+            "mangledName": "$s7gpi_prm11PrmCallbackP7onStartyyF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIocCallback>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIocCallback>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.PrmCallback>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.PrmCallback>",
             "protocolReq": true,
             "reqNewWitnessTableEntry": true,
             "funcSelfKind": "NonMutating"
@@ -1629,11 +1619,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm12MIocCallbackP6onStopyyF",
-            "mangledName": "$s7gpi_prm12MIocCallbackP6onStopyyF",
+            "usr": "s:7gpi_prm11PrmCallbackP6onStopyyF",
+            "mangledName": "$s7gpi_prm11PrmCallbackP6onStopyyF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIocCallback>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIocCallback>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.PrmCallback>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.PrmCallback>",
             "protocolReq": true,
             "reqNewWitnessTableEntry": true,
             "funcSelfKind": "NonMutating"
@@ -1656,11 +1646,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm12MIocCallbackP7onError3msgySS_tF",
-            "mangledName": "$s7gpi_prm12MIocCallbackP7onError3msgySS_tF",
+            "usr": "s:7gpi_prm11PrmCallbackP7onError3msgySS_tF",
+            "mangledName": "$s7gpi_prm11PrmCallbackP7onError3msgySS_tF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIocCallback>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIocCallback>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.PrmCallback>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.PrmCallback>",
             "protocolReq": true,
             "reqNewWitnessTableEntry": true,
             "funcSelfKind": "NonMutating"
@@ -1701,11 +1691,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7gpi_prm12MIocCallbackP15onReceivedInout8inoutStr5tagId09workspaceK00L4NameySS_SSs5Int64VSStF",
-            "mangledName": "$s7gpi_prm12MIocCallbackP15onReceivedInout8inoutStr5tagId09workspaceK00L4NameySS_SSs5Int64VSStF",
+            "usr": "s:7gpi_prm11PrmCallbackP15onReceivedInout8inoutStr5tagId09workspaceK00L4NameySS_SSs5Int64VSStF",
+            "mangledName": "$s7gpi_prm11PrmCallbackP15onReceivedInout8inoutStr5tagId09workspaceK00L4NameySS_SSs5Int64VSStF",
             "moduleName": "gpi_prm",
-            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.MIocCallback>",
-            "sugared_genericSig": "<Self where Self : gpi_prm.MIocCallback>",
+            "genericSig": "<τ_0_0 where τ_0_0 : gpi_prm.PrmCallback>",
+            "sugared_genericSig": "<Self where Self : gpi_prm.PrmCallback>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -1715,8 +1705,8 @@
           }
         ],
         "declKind": "Protocol",
-        "usr": "s:7gpi_prm12MIocCallbackP",
-        "mangledName": "$s7gpi_prm12MIocCallbackP",
+        "usr": "s:7gpi_prm11PrmCallbackP",
+        "mangledName": "$s7gpi_prm11PrmCallbackP",
         "moduleName": "gpi_prm",
         "genericSig": "<τ_0_0 : AnyObject>",
         "sugared_genericSig": "<Self : AnyObject>",
@@ -1773,12 +1763,8 @@
             "moduleName": "gpi_prm",
             "static": true,
             "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
               "AccessControl"
             ],
-            "isLet": true,
-            "hasStorage": true,
             "accessors": [
               {
                 "kind": "Accessor",
@@ -1797,7 +1783,6 @@
                 "mangledName": "$s7gpi_prm9SDKConfigO7versionSSvgZ",
                 "moduleName": "gpi_prm",
                 "static": true,
-                "implicit": true,
                 "accessorKind": "get"
               }
             ]
@@ -2404,798 +2389,700 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/common\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 192,
-      "length": 33,
-      "value": "\"kr.co.geoplan.mobile.mioc.prefs\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
-      "kind": "StringLiteral",
-      "offset": 275,
-      "length": 9,
-      "value": "\".ioc.ip\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
-      "kind": "StringLiteral",
-      "offset": 331,
-      "length": 11,
-      "value": "\".ioc.port\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
-      "kind": "StringLiteral",
-      "offset": 391,
-      "length": 13,
-      "value": "\".project.id\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
-      "kind": "StringLiteral",
-      "offset": 451,
-      "length": 11,
-      "value": "\".space.id\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
-      "kind": "StringLiteral",
-      "offset": 507,
-      "length": 6,
-      "value": "\".key\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
-      "kind": "StringLiteral",
-      "offset": 560,
-      "length": 11,
-      "value": "\".udp_port\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
-      "kind": "StringLiteral",
-      "offset": 628,
-      "length": 21,
-      "value": "\".first.position.use\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/AppProperty.swift",
-      "kind": "StringLiteral",
-      "offset": 706,
-      "length": 21,
-      "value": "\".first.position.cnt\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 136,
+      "offset": 139,
       "length": 31,
       "value": "\"https:\/\/192.168.0.13:7081\/ioc\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 914,
-      "length": 9,
-      "value": "\"geoplan\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 953,
-      "length": 7,
-      "value": "\"4.0.0\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 1049,
-      "length": 9,
-      "value": "\"IOC_KEY\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/common\/Constants.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1120,
-      "length": 4,
-      "value": "1000"
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 945,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 1013,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "FloatLiteral",
       "offset": 1087,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 1159,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "FloatLiteral",
       "offset": 1240,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "BooleanLiteral",
       "offset": 1530,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "Array",
       "offset": 1894,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "Dictionary",
       "offset": 1989,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "Dictionary",
       "offset": 2113,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "Array",
       "offset": 2163,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "Array",
       "offset": 2208,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/WallDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/WallDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 461,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/WallDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/WallDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 524,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/data\/WallDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/WallDTO.swift",
       "kind": "FloatLiteral",
       "offset": 592,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 234,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "FloatLiteral",
       "offset": 294,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "FloatLiteral",
       "offset": 318,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "FloatLiteral",
       "offset": 342,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "FloatLiteral",
       "offset": 370,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "BooleanLiteral",
       "offset": 400,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 433,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 463,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 564,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 588,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/GuideLineObjectDTO.swift",
       "kind": "FloatLiteral",
       "offset": 610,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 452,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 512,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
       "kind": "FloatLiteral",
       "offset": 577,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
       "kind": "FloatLiteral",
       "offset": 659,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
       "kind": "FloatLiteral",
       "offset": 692,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGeometryDTO.swift",
       "kind": "StringLiteral",
       "offset": 800,
       "length": 6,
       "value": "\"READ\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 413,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 488,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
       "kind": "FloatLiteral",
       "offset": 568,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
       "kind": "FloatLiteral",
       "offset": 652,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
       "kind": "BooleanLiteral",
       "offset": 783,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/InoutGuideLineDTO.swift",
       "kind": "StringLiteral",
       "offset": 1209,
       "length": 6,
       "value": "\"READ\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/PointAngleDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/PointAngleDTO.swift",
       "kind": "FloatLiteral",
       "offset": 199,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/PointAngleDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/PointAngleDTO.swift",
       "kind": "FloatLiteral",
       "offset": 332,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
       "kind": "FloatLiteral",
       "offset": 171,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
       "kind": "FloatLiteral",
       "offset": 241,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
       "kind": "FloatLiteral",
       "offset": 335,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/SegmentInfoDTO.swift",
       "kind": "FloatLiteral",
       "offset": 356,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 191,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 219,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 390,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 411,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/dto\/TagInfoDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 432,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ExternalTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/ExternalTypeEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ExternalTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/ExternalTypeEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 271,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ExternalTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/ExternalTypeEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 293,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 181,
       "length": 5,
       "value": "\"TAG\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 203,
       "length": 6,
       "value": "\"PUSH\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 228,
       "length": 8,
       "value": "\"IGNORE\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/InoutTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 10,
       "value": "\"PRIORITY\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 191,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 208,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 225,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/ProtocolTypeEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 251,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 211,
       "length": 7,
       "value": "\"SLEEP\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 258,
       "length": 12,
       "value": "\"CONFIG_UWB\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 324,
       "length": 20,
       "value": "\"CONFIG_UWB_CHANNEL\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 395,
       "length": 15,
       "value": "\"CONFIG_BEACON\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 474,
       "length": 15,
       "value": "\"ACCELEROMETER\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 537,
       "length": 10,
       "value": "\"EPD_PAGE\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/TagCommandTypeEnum.swift",
       "kind": "StringLiteral",
       "offset": 597,
       "length": 11,
       "value": "\"EPD_STYLE\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/TypeEnum.swift",
       "kind": "IntegerLiteral",
-      "offset": 175,
+      "offset": 178,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/TypeEnum.swift",
       "kind": "IntegerLiteral",
-      "offset": 195,
+      "offset": 201,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/enums\/TypeEnum.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/enums\/TypeEnum.swift",
       "kind": "IntegerLiteral",
-      "offset": 215,
+      "offset": 224,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/impl\/MIocImpl.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/impl\/PrmImpl.swift",
       "kind": "BooleanLiteral",
-      "offset": 533,
+      "offset": 529,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/impl\/MIocImpl.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/impl\/PrmImpl.swift",
       "kind": "StringLiteral",
-      "offset": 584,
-      "length": 29,
-      "value": "\"kr.co.geoplan.mioc.executor\""
+      "offset": 580,
+      "length": 28,
+      "value": "\"kr.co.geoplan.prm.executor\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/impl\/MIocImpl.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/impl\/PrmImpl.swift",
       "kind": "IntegerLiteral",
-      "offset": 672,
+      "offset": 667,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/impl\/MIocImpl.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/impl\/PrmImpl.swift",
       "kind": "IntegerLiteral",
-      "offset": 724,
+      "offset": 719,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/impl\/MIocImpl.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/impl\/PrmImpl.swift",
       "kind": "BooleanLiteral",
-      "offset": 5993,
+      "offset": 5997,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/EventManager.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/manager\/EventManager.swift",
       "kind": "Dictionary",
       "offset": 216,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
       "kind": "Array",
       "offset": 372,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
       "kind": "Dictionary",
       "offset": 435,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
       "kind": "Dictionary",
       "offset": 484,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
       "kind": "StringLiteral",
       "offset": 590,
-      "length": 36,
-      "value": "\"kr.co.geoplan.mioc.inoutArea.timer\""
+      "length": 35,
+      "value": "\"kr.co.geoplan.prm.inoutArea.timer\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/manager\/InoutAreaManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 660,
+      "offset": 659,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/WallManager.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/manager\/WallManager.swift",
       "kind": "Array",
       "offset": 179,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/manager\/WallManager.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/manager\/WallManager.swift",
       "kind": "StringLiteral",
       "offset": 281,
-      "length": 31,
-      "value": "\"kr.co.geoplan.mioc.wall.timer\""
+      "length": 30,
+      "value": "\"kr.co.geoplan.prm.wall.timer\""
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
       "kind": "Dictionary",
       "offset": 212,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
       "kind": "IntegerLiteral",
       "offset": 282,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/tracking\/CheckInAreaService.swift",
       "kind": "FloatLiteral",
       "offset": 317,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/MainTrackingService.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/tracking\/MainTrackingService.swift",
       "kind": "BooleanLiteral",
       "offset": 340,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/tracking\/TrackingObjectService.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/tracking\/TrackingObjectService.swift",
       "kind": "Dictionary",
       "offset": 186,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/AreaInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 230,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/AreaInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 270,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/AreaInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 304,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/AreaInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 338,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/AreaInfo.swift",
       "kind": "FloatLiteral",
       "offset": 372,
       "length": 3,
       "value": "3.0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/AreaInfo.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/AreaInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 409,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/Version.swift",
-      "kind": "StringLiteral",
-      "offset": 567,
-      "length": 7,
-      "value": "\"1.0.0\""
-    },
-    {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/WallInfo.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/WallInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 230,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/WallInfo.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/WallInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 302,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/ksh\/WORKSPACE\/iOS\/gpi-prm\/gpi-prm\/WallInfo.swift",
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/WallInfo.swift",
       "kind": "FloatLiteral",
       "offset": 336,
       "length": 3,
