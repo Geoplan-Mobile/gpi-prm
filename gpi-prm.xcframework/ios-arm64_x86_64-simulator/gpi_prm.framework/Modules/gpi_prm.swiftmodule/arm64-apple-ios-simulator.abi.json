@@ -36,6 +36,23 @@
       },
       {
         "kind": "Import",
+        "name": "gpi_logger",
+        "printedName": "gpi_logger",
+        "declKind": "Import",
+        "moduleName": "gpi_prm"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "gpi_prm",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "GEOSwift",
         "printedName": "GEOSwift",
         "declKind": "Import",
@@ -2396,6 +2413,27 @@
       "value": "\"https:\/\/192.168.0.13:7081\/ioc\""
     },
     {
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/common\/Log.swift",
+      "kind": "StringLiteral",
+      "offset": 375,
+      "length": 9,
+      "value": "\"gpi-prm\""
+    },
+    {
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/common\/Log.swift",
+      "kind": "StringLiteral",
+      "offset": 761,
+      "length": 3,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/common\/Log.swift",
+      "kind": "StringLiteral",
+      "offset": 791,
+      "length": 4,
+      "value": "\"\n\""
+    },
+    {
       "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/data\/InoutAreaDTO.swift",
       "kind": "IntegerLiteral",
       "offset": 945,
@@ -2923,9 +2961,16 @@
     {
       "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/impl\/PrmImpl.swift",
       "kind": "BooleanLiteral",
-      "offset": 5997,
+      "offset": 6560,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/impl\/PrmImpl.swift",
+      "kind": "StringLiteral",
+      "offset": 6582,
+      "length": 14,
+      "value": "\"call onStart\""
     },
     {
       "filePath": "\/Users\/byunghyunjeon\/work\/asSite\/internal\/iosLib\/gpi-prm\/gpi-prm\/manager\/EventManager.swift",

@@ -6,7 +6,7 @@
 //   https://github.com/Geoplan-Mobile/gpi-prm  (from: "1.0.0")
 //   import gpi_prm
 //
-// carrier(gpi-prm-deps) 가 GEOSwift 를 짊어져, 소비측이 GEOSwift 를 직접 선언하지
+// carrier(gpi-prm-deps) 가 GEOSwift · gpi-logger 를 짊어져, 소비측이 이를 직접 선언하지
 // 않아도 자동 전파된다. (binaryTarget 은 SPM 제약상 dependencies 를 못 받음)
 //
 // 새 버전 배포: gpi-prm 소스 repo 에서 build_xcframework.sh 로 xcframework 갱신 →
@@ -21,11 +21,12 @@ let package = Package(
     ],
     products: [
         // binaryTarget 과 deps carrier 를 한 library 로 묶음 — 소비측이 한 번 의존하면
-        // 바이너리 + GEOSwift 가 함께 build graph 에 들어온다.
+        // 바이너리 + GEOSwift + gpi-logger 가 함께 build graph 에 들어온다.
         .library(name: "gpi-prm", targets: ["gpi-prm", "gpi-prm-deps"]),
     ],
     dependencies: [
         .package(url: "https://github.com/GEOSwift/GEOSwift.git", from: "11.2.0"),
+        .package(url: "https://github.com/Geoplan-Mobile/gpi-logger", from: "1.0.1"),
     ],
     targets: [
         // 실제 라이브러리 — 사용자가 import 하는 대상.
@@ -38,6 +39,7 @@ let package = Package(
             name: "gpi-prm-deps",
             dependencies: [
                 .product(name: "GEOSwift", package: "GEOSwift"),
+                .product(name: "gpi-logger", package: "gpi-logger"),
             ],
             path: "Sources/gpi-prm-deps"
         ),

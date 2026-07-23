@@ -8,6 +8,7 @@ import Swift
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import gpi_logger
 public class AreaInfo {
   public var name: Swift::String?
   public var points: [CoreFoundation::CGPoint]?
