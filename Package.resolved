@@ -10,15 +10,6 @@
       }
     },
     {
-      "identity" : "geoswift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/GEOSwift/GEOSwift.git",
-      "state" : {
-        "revision" : "9ddf733b9f72799eb7651d1e0d322f2426b36a06",
-        "version" : "11.2.0"
-      }
-    },
-    {
       "identity" : "gpi-logger",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Geoplan-Mobile/gpi-logger",
