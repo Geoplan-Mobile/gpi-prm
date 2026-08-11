@@ -9,48 +9,50 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 import gpi_logger
-public class AreaInfo {
-  public var name: Swift::String?
-  public var points: [CoreFoundation::CGPoint]?
-  public var inCount: Swift::Int
-  public var inCountInterval: Swift::Int
-  public var priority: Swift::Int
-  public var outPeriod: Swift::Int
-  public var inDist: Swift::Double
-  public var callInout: Swift::Bool
-  public init()
+@_hasMissingDesignatedInitializers public class AreaInfo {
+  final public let name: Swift::String
+  final public let points: [CoreFoundation::CGPoint]
+  final public let inCount: Swift::Int
+  final public let inCountInterval: Swift::Int
+  final public let priority: Swift::Int
+  final public let outPeriod: Swift::Int
+  final public let inDist: Swift::Double
+  final public let callInout: Swift::Bool
+  final public class Builder {
+    public init(name: Swift::String, points: [CoreFoundation::CGPoint])
+    @discardableResult
+    final public func inCount(_ v: Swift::Int) -> gpi_prm::AreaInfo.gpi_prm::Builder
+    @discardableResult
+    final public func inCountInterval(_ v: Swift::Int) -> gpi_prm::AreaInfo.gpi_prm::Builder
+    @discardableResult
+    final public func priority(_ v: Swift::Int) -> gpi_prm::AreaInfo.gpi_prm::Builder
+    @discardableResult
+    final public func outPeriod(_ v: Swift::Int) -> gpi_prm::AreaInfo.gpi_prm::Builder
+    @discardableResult
+    final public func inDist(_ v: Swift::Double) -> gpi_prm::AreaInfo.gpi_prm::Builder
+    @discardableResult
+    final public func callInout(_ v: Swift::Bool) -> gpi_prm::AreaInfo.gpi_prm::Builder
+    final public func build() -> gpi_prm::AreaInfo
+    @objc deinit
+  }
   @objc deinit
 }
-public protocol Prm {
-  func setCallback(callback: any gpi_prm::PrmCallback)
-  func isRunning() -> Swift::Bool
-  func start(baseUrl: Swift::String, projectId: Swift::Int64)
-  func start(baseUrl: Swift::String, projectId: Swift::Int64, spaceId: Swift::Int64?)
-  func start(areaInfoList: [gpi_prm::AreaInfo], wallInfoList: [gpi_prm::WallInfo])
-  func stop()
-  func pushEvent(spaceId: Swift::Int64, tagId: Swift::String, x: Swift::Double, y: Swift::Double, z: Swift::Double)
-}
-@_hasMissingDesignatedInitializers public class PrmFactory {
-  public static func getInstance() -> any gpi_prm::Prm
+@_hasMissingDesignatedInitializers public class Prm {
+  public static func create(name: Swift::String, callback: any gpi_prm::PrmCallback) -> gpi_prm::Prm
+  public func isRunning() -> Swift::Bool
+  public func start(areaInfoList: [gpi_prm::AreaInfo])
+  public func stop()
+  public func pushEvent(x: Swift::Double, y: Swift::Double, z: Swift::Double)
   @objc deinit
 }
 public protocol PrmCallback : AnyObject {
-  func onStart()
-  func onStop()
-  func onError(msg: Swift::String)
-  func onReceivedInout(inoutStr: Swift::String, tagId: Swift::String, workspaceId: Swift::Int64, workspaceName: Swift::String)
+  func onStart(prmName: Swift::String)
+  func onStop(prmName: Swift::String)
+  func onError(prmName: Swift::String, msg: Swift::String)
+  func onReceivedInout(prmName: Swift::String, inoutStr: Swift::String, areaName: Swift::String)
 }
 public enum SDKConfig {
   public static var version: Swift::String {
     get
   }
-}
-public class WallInfo {
-  public var name: Swift::String?
-  public var points: [CoreFoundation::CGPoint]?
-  public var inCount: Swift::Int
-  public var inCountInterval: Swift::Int
-  public var inDist: Swift::Double
-  public init()
-  @objc deinit
 }
