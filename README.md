@@ -114,7 +114,7 @@ PRM 엔진 컨트롤러. 진출입 판정의 모든 제어 진입점이다.
 | `priority` | `Int` | 1 | 겹칠 때 콜백 순서(작을수록 먼저) |
 | `callInout` | `Bool` | true | 진출입 콜백 호출 여부 |
 
-> **진입 누적:** 영역 안 좌표가 `inCountInterval`초 이내 + `inDist`m 이내로 이어질 때만 카운트가 오르고, `inCount`에 도달하면 IN. **영역 밖 좌표는 그 영역 누적을 1 감소**시킨다(0이면 리셋). 안·밖이 번갈아 오면 진입이 쉽게 성립하지 않는다.
+> **진입 누적:** 영역 안 좌표가 `inCountInterval`초 이내 + `inDist`m 이내로 이어질 때만 카운트가 오르고, `inCount`에 도달하면 IN. **영역 밖 좌표는 그 영역 누적을 1 감소**시킨다(0이면 리셋). 안·밖이 번갈아 오면 진입이 쉽게 성립하지 않는다. (좌표 시퀀스별 상세 케이스: [INOUT_case.md](INOUT_case.md))
 
 ### 버전: `SDKConfig`
 * **`static var version: String`** — 현재 SDK 버전. framework Info.plist 의 `CFBundleShortVersionString`(빌드 시 Xcode `MARKETING_VERSION`)을 읽어 반환한다. (예: `"2.0.0"`)
